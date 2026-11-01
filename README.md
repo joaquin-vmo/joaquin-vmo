@@ -15,7 +15,7 @@ Asistente de investigación en Bering y en el Departamento de Economía de la U.
 
 ## Videos
 
-Clases de economía para pregrado en el canal [FenVID](https://www.youtube.com/@FENVidUchile).
+Videos de economía para pregrado en el canal [FenVID](https://www.youtube.com/@FENVidUchile).
 
 ## Informes
 
