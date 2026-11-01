@@ -20,7 +20,3 @@ Videos de economía para pregrado en el canal [FenVID](https://www.youtube.com/@
 ## Informes
 
 Ex Head of Research del Club de Finanzas de la U. de Chile. Los informes de coyuntura están en el [repositorio del Club](https://club-de-finanzas-fen.github.io/).
-
-## Videos
-
-Clases de economía para pregrado en el canal [FenVID](https://www.youtube.com/@FENVidUchile).
